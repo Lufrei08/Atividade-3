@@ -1,0 +1,9 @@
+com\mycompany\segregacaointerfacecorreto\Pessoa.class
+com\mycompany\segregacaointerfacecorreto\Vendedor.class
+com\mycompany\segregacaointerfacecorreto\iEstoquista.class
+com\mycompany\segregacaointerfacecorreto\iVendedor.class
+com\mycompany\segregacaointerfacecorreto\Gerente.class
+com\mycompany\segregacaointerfacecorreto\iGerente.class
+com\mycompany\segregacaointerfacecorreto\SegregacaoInterfaceCorreto.class
+com\mycompany\segregacaointerfacecorreto\iFuncionario.class
+com\mycompany\segregacaointerfacecorreto\Estoquista.class
